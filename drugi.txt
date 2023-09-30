@@ -1,2 +1,4 @@
 stworzony drugi plik
 20=r
+9=o
+yolo
